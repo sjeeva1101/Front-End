@@ -1,10 +1,14 @@
-<html>
-    <head>
-        <title>Full Stack Development</title>
-    </head>
-    <body bgcolor="Green">
-        <h1>About Jeeva</h1>
-        <p>I have complete my <b>BSC (Computer science)</b> in <u>2025</u></p>
-        <h3>at Vellore Institute of Technology <u>(2022-2025)</u></h3>
-    </body>
-    </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My career</title>
+</head>
+<body>
+<body bgcolor="Green">
+<h1>About Jeeva</h1>
+<p>I have complete my <b>BSC (Computer science)</b> in <u>2025</u></p>
+<h3>at Vellore Institute of Technology <u>(2022-2025)</u></h3>    
+</body>
+</html>
