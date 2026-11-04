@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 2 of HTML class</title>
+</head>
+    <body style="background-color: black;">
+        <div><h1 style="background-color: blue;width: 30%;"><span style="color: orange;">Welcome to HTML Day 2 Class</span></h1></div>
+            <p><span style="color: aliceblue;">My favourite color </span><span style="color: blueviolet;"><b>Purple.</b>
+                <div style="background-color: blanchedalmond;width: 10%;"></span></p><p><span style="color: brown;">Sky was in </span><span style="color: skyblue;"><b>Blue </b></span> <span style="color: brown;"> Color</span></p></div>
+                <div style="background-color: aquamarine; width: 4%;">
+                <a href="https://www.google.com/"><b>Search</b></a>
+                </div>
+    <div style="background-color: red; width: 13%; display: inline-block;">
+    <p>Thank You</p>
+    <h2>All the Best</h2>
+    <h3>Great Job!!!!</h3>
+</div>
+    </body>
+</html>
