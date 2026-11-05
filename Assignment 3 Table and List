@@ -1,0 +1,84 @@
+1. Ordered and unordered List
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ordered and Unordered List</title>
+</head>
+<body style="background-color: bisque;">
+    <h2>Shopping List</h2>
+    <ul type="Square">
+        <li>Egg</li>
+        <li>Milk</li>
+        <li>Rice</li>
+        <li>Bread</li>
+    </ul>
+    <h2>Steps To Make Tea</h2>
+    <ol type="I">
+        <li>Boil Water</li>
+        <li>Add tea powder</li>
+        <li>Add milk and sugar</li>
+        <li>Filter and serve</li>
+    </ol>
+</body>
+</html>
+
+--------------------------------------xxx--------------------------------------------
+2. Nested List
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nested List</title>
+</head>
+<body>
+    <h1 style="text-align: center;">My Subjects</h1>
+    <ul>
+        <li><b>Front End</b>
+            <ol type="i">
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Javascript</li>
+            </ol>
+        </li>
+        <li><b>Back End</b>
+        <ol type="A">
+            <li>Java</li>
+            <li>Python</li>
+            <li>PHP</li>
+        </ol>
+    </li>
+    </ul>
+    </body>
+</html>
+--------------------------------------------------------xxxx-------------------------------
+
+3. Table with <td> and <tr> and cellpadding and cellspacing
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Rank Holder</title>
+</head>
+<body>
+    <table background="E:\HTML\Day 3 table\school.jpg"; align= "center"; border="1" style="width: 100px;" cellpadding="18px"; cellspacing="10px";>
+       <!-- <img src="E:\HTML\Day 3 table\school.jpg"> -->
+        <h1 style="text-align: center;">Student Rank List</h1>
+        <caption style="background-color: blueviolet;"><h1>Student Information</h1></caption>
+        <tr><th style="background-color: blanchedalmond;">Reg No</th><th style="background-color: blanchedalmond;">Student Name</th>
+        <th style="background-color: blanchedalmond;">Class</th><th style="background-color: blanchedalmond;">Blood Group</th>
+        <th style="background-color: blanchedalmond;">Rank</th></tr>
+        <tr><td style="background-color: goldenrod;"><span style="color: bisque;">101</span></td><td style="background-color: blueviolet;">Ram</td><td rowspan="4" style="text-align: center;">X</td><td>O+</td><td style="background-color: chartreuse;"><b>1</b></td></tr>
+        <tr><td style="background-color: goldenrod;"><span style="color: bisque;">102</span><td style="background-color:blueviolet;">Leo</td></td><td>A+</td><td style="background-color: chartreuse;"><b>2</b></td></tr>
+        <tr><td style="background-color: goldenrod;"><span style="color: bisque;">103</span><td style="background-color: blueviolet;">Raj</td><td>AB+</td><td style="background-color: chartreuse;"><b>3</b></td></tr>
+        <tr><td style="background-color: goldenrod;"><span style="color: bisque;">104</span><td style="background-color: blueviolet;">John</td><td>O+</td><td style="background-color: chartreuse;"><b>4</b></td></tr>
+    </table>
+</body>
+</html>
+------------------------------------------xxxx----------------------------------------
