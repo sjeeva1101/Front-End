@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ronaldo Blog</title>
+</head>
+<body>
+
+    <header>
+        <h1 style="text-align:center;">CRISTIANO RONALDO</h1>
+        <p style="text-align:center;">The Legend of Football</p>
+        <nav>
+            <ul>
+                <li><a href="#Career">Career</a></li>
+                <li><a href="#Season">Season</a></li>
+                <li><a href="#Clubs">Clubs</a></li>
+                <li><a href="#Goals">Goals</a></li>
+                <li><a href="#Achievements">Achievements</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <figure>
+            <img src="ronaldo.jpeg" alt="Cristiano Ronaldo" width="350">
+            <figcaption>Cristiano Ronaldo – Football Legend</figcaption>
+        </figure>
+        <article id="Career">
+            <h2>Career</h2>
+            <section>
+                <h3>Early Career</h3>
+                <p>
+                    Cristiano Ronaldo was born on February 5, 1985, in Madeira, Portugal. He started playing football at a young age and joined Sporting CP's academy. His extraordinary skills attracted the attention of major European football clubs.
+                </p>
+            </section>
+        <section>
+                <h3>International Career with Portugal</h3>
+                <p>
+                    Ronaldo made his international debut for Portugal on August 20, 2003, against Kazakhstan. He became the captain of Portugal and helped his country win major international trophies.
+                </p>
+                <ul>
+                    <li>UEFA European Championship – 2016</li>
+                    <li>UEFA Nations League – 2019</li>
+                    <li>UEFA Nations League – 2025</li>
+                </ul>
+            </section>
+            <section>
+                <h3>Playing Style</h3>
+                <p>
+                    Ronaldo is famous for his speed, powerful shots, heading ability, dribbling and incredible fitness. His dedication and hard work make him one of football's greatest players.
+                </p>
+            </section>
+        </article>
+        <hr>
+        <article id="Season">
+            <h2>Season</h2>
+            <section>
+                <h3>Major Individual Honors</h3>
+                <ul>
+                    <li>Ballon d'Or – 5 times</li>
+                    <li>European Golden Shoe – 4 times</li>
+                    <li>UEFA Champions League – 5 titles</li>
+                    <li>FIFA Club World Cup titles</li>
+                </ul>
+            </section>
+            <section>
+                <h3>Memorable Seasons</h3>
+                <p>
+                    The 2007–08 season was one of Ronaldo's breakthrough seasons at Manchester United. He won the Premier League and UEFA Champions League and received his first Ballon d'Or.
+                </p>
+                <p>
+                    During his time at Real Madrid, he produced several outstanding seasons and became the club's all-time leading goalscorer.
+                </p>
+            </section>
+        </article>
+
+        <hr>
+
+        <article id="Clubs">
+            <h2>Clubs</h2>
+            <section>
+                <h3>Sporting CP</h3>
+                <p>
+                    Ronaldo began his senior professional career at Sporting CP in Portugal. His impressive performances helped him attract international attention.
+                </p>
+            </section>
+            <section>
+                <h3>Manchester United</h3>
+                <p>
+                    Ronaldo joined Manchester United in 2003. He developed into a world-class footballer and won three Premier League titles and one Champions League title during his first spell.
+                </p>
+            </section>
+            <section>
+                <h3>Real Madrid</h3>
+                <p>
+                    Ronaldo joined Real Madrid in 2009. He scored an incredible number of goals and helped the club win four Champions League titles during his time there.
+                </p>
+            </section>
+            <section>
+                <h3>Juventus</h3>
+                <p>
+                    Ronaldo joined Juventus in 2018. He won two Serie A titles and continued his excellent goal-scoring performances.
+                </p>
+            </section>
+            <section>
+                <h3>Al Nassr</h3>
+                <p>
+                    Ronaldo joined Al Nassr in Saudi Arabia in December 2022. His arrival brought worldwide attention to Saudi Arabian football.
+                </p>
+            </section>
+        </article>
+        <hr>
+        <article id="Goals">
+            <h2>Goals</h2>
+            <section>
+                <h3>Goal Scoring Records</h3>
+                <p>
+                    Cristiano Ronaldo is one of the greatest goal scorers in football history. He has scored goals in domestic leagues, international matches and European competitions.
+                </p>
+            </section>
+            <section>
+                <h3>Types of Goals</h3>
+                <ul>
+                    <li>Powerful long-range shots</li>
+                    <li>Free kicks</li>
+                    <li>Penalty kicks</li>
+                    <li>Headers</li>
+                    <li>One-on-one finishes</li>
+                </ul>
+            </section>
+            <section>
+                <h3>Famous Goal Moments</h3>
+                <p>
+                    His bicycle kick against Juventus in 2018 became one of the most memorable goals in UEFA Champions League history.
+                </p>
+            </section>
+        </article>
+        <hr>
+        <article id="Achievements">
+            <h2>Achievements</h2>
+            <section>
+                <h3>Career Achievements</h3>
+                <ul>
+                    <li>Five-time Ballon d'Or winner</li>
+                    <li>Five-time UEFA Champions League winner</li>
+                    <li>UEFA Euro 2016 champion</li>
+                    <li>Multiple domestic league titles</li>
+                    <li>One of the highest international goal scorers</li>
+                </ul>
+            </section>
+           <section>
+                <h3>Inspiration</h3>
+                <p>
+                    Ronaldo inspires millions of young footballers around the world. His discipline, confidence, determination and dedication show the importance of hard work in achieving success.
+                </p>
+            </section>
+        </article>
+            <h2>Did You Know?</h2>
+            <p>
+                Cristiano Ronaldo is widely recognised for his famous celebration called "Siuuu".
+            </p>
+    </main>
+    <footer>
+        <p>&copy; 2026 Ronaldo Blog. All rights reserved.</p>
+    </footer>
+</body>
+</html>
