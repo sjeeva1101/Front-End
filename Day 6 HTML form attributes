@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Movie Ticket Booking</title>
+</head>
+<body>
+<h1 style="text-align: center;"><b>Online Movie Ticket Booking</b></h1>
+<hr>
+    <h2 style="text-align: center;">Upcoming Movies</h2>
+    <h3 style="text-align: center;"><u>Movie List</u></h3>
+    <ul>
+        <li>Leo</li>
+        <li>Vikram</li>
+        <li>Master</li>
+        <li>Inception</li>
+        <li>Interstellar</li>
+    </ul>
+    <hr>
+    <h3>Movie Details</h3>
+    <table border="1">
+        <tr>
+            <th>Movie Name</th>
+            <th>Hero</th>
+            <th>Release Year</th>
+            <th>Genre</th>
+        </tr>
+        <tr>
+            <td>Leo</td>
+            <td>Vijay</td>
+            <td>2023</td>
+            <td>Action</td>
+        </tr>
+        <tr>
+            <td>Vikram</td>
+            <td>Kamal Haasan</td>
+            <td>2022</td>
+            <td>Action</td>
+        </tr>
+        <tr>
+            <td>Master</td>
+            <td>Vijay</td>
+            <td>2021</td>
+            <td>Action</td>
+        </tr>
+        <tr>
+            <td>Inception</td>
+            <td>Leonardo DiCaprio</td>
+            <td>2010</td>
+            <td>Sci-Fi</td>
+        </tr>
+    </table>
+    <hr>
+    <h1 style="text-align: center;"><b><u>Online Movie Registration Form</u></b></h2>
+        <form action="#" method="post" onsubmit="alert('Successfully Registered! Enjoy Your cinema'); return false;">
+        <label for="regname">Full Name:</label>
+        <input type="text" id="regname" name="fullname" placeholder="Enter your full name" required>
+        <br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+        <br><br>
+        <label for="password">Password:</label>
+        <input type="password"id="password" name="password" placeholder="Enter your password" minlength="6" required>
+        <br><br>
+        <label>Gender:</label>
+        <input type="radio" id="male" name="gender" value="Male" required>
+        <label for="male">Male</label>
+        <input type="radio" id="regfemale" name="gender" value="Female">
+        <label for="female">Female</label>
+        <input type="radio" id="other" name="gender" value="Other">
+        <label for="other">Other</label>
+        <br><br>
+        <label>Favourite Genre Hobbies:</label>
+        <input type="checkbox" id="reading" name="hobbies" value="Reading">
+        <label for="reading">Reading</label>
+        <input type="checkbox" id="sports" name="hobbies" value="Sports">
+        <label for="sports">Sports</label>
+        <input type="checkbox" id="music" name="hobbies" value="Music">
+        <label for="music">Music</label>
+        <br><br>
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" placeholder="Enter your age" min="10" max="60" required><br><br>
+        <input type="submit" value="Register">
+        <input type="reset" value="Clear">
+    </form>
+    <hr>
+    <h2 style="text-align: center;">Theatre Review</h2>
+    <h3 style="text-align: center;"></h3>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/18sob37oGIA"></iframe>
+    </iframe>
+    <hr>
+    <h2 style="text-align: center;">Location</h2>
+    <iframe src="https://www.google.com/maps?q=Inoxtheatre&output=embed" width="560" height="315">
+    </iframe>
+    <hr>
+        <h1 style="text-align: center;">Enjoy The Theatre Experience!!!</h1>
+    <hr>
+</body>
+</html>
