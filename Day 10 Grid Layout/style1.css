@@ -1,0 +1,12 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 100px);
+    gap: 15px;
+}
+.container div {
+    background-color: lightblue;
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+}
