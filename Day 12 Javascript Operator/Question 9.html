@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Operator Question 9</title>
+</head>
+<body>
+    <h1>Electricity Bill Calculator</h1>
+        <script>
+        let units = 150;
+        let bill;
+
+        if (units <= 100) {
+            bill = units * 5;
+        }
+        else if (units <= 200) {
+            bill = units * 7;
+        }
+        else {
+            bill = units * 10;
+        }
+
+        console.log("Electricity Bill: ₹" + bill);
+    </script>
+</body>
+</html>
